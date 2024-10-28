@@ -49,22 +49,22 @@
 - 数据库: MySQL5.7及以上
 
 ## 运行截图
-![](screenshot/1.png)
+![](screenshot/1.jpg)
 
-![](screenshot/2.png)
+![](screenshot/2.jpg)
 
-![](screenshot/3.png)
+![](screenshot/3.jpg)
 
-![](screenshot/4.png)
+![](screenshot/4.jpg)
 
-![](screenshot/5.png)
+![](screenshot/5.jpg)
 
-![](screenshot/6.png)
+![](screenshot/6.jpg)
 
-![](screenshot/7.png)
+![](screenshot/7.jpg)
 
-![](screenshot/8.png)
+![](screenshot/8.jpg)
 
-![](screenshot/9.png)
+![](screenshot/9.jpg)
 
-![](screenshot/10.png)
+![](screenshot/10.jpg)
